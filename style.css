@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+}
+img{
+    width: 70%;
+    background-image: linear-gradient(orange, magenta);
+    border-radius: 50%;
+    
+}
+.half-width{
+    
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
+}
+#img{
+    background-position: right;
+}
+.first-section{
+    display: flex;
+}
+.orange-color{
+    color: orangered;
+}
+.link{
+    text-decoration: none;
+    background-color:rgba(243, 84, 10, 0.904) ;
+    font-size: 20px;
+    color: maroon;
+    border-radius: 10px;
+    padding: 5px;
+}
